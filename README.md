@@ -145,13 +145,5 @@ in your browser.
 ### 🎓 Mentor
 Dr. M Deepika
 
----
-
-## ✍️ Author
-Srihitha Iytha  
-B.Tech Computer Science Student
-
----
-
 ## 📄 License
 This project is developed for academic and research purposes.
